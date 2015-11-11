@@ -1,0 +1,10 @@
+{
+  "name": "docker-diego-hello",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Node.js Hello world app using docker",
+  "author": "Diego Fernandez <die.fernandez@gmail.com>",
+  "dependencies": {
+    "express": "3.2.4"
+  }
+}
